@@ -4,4 +4,5 @@
       sum += data[i].value;
     }
     return sum;
+    console.log (sum)
   }
